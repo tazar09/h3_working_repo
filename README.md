@@ -1,2 +1,2 @@
 # heroes_3
-simulating Heroes 3 encounters
+A statistic overview of different factions available for playing.
